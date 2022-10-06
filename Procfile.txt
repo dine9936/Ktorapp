@@ -1,1 +1,1 @@
-web: ./build/install/ktor-get-started-sample/bin/ktor-firstapplication
+web: ./build/install/ktor-firstapplication/bin/ktor-firstapplication
